@@ -1795,6 +1795,3 @@ models:
               name: relativeUrl
               label: Relative Url
     labelField: title
-  objectmodelstest:
-    type: object
-    label: objectmodelstest
